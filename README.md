@@ -1,0 +1,2 @@
+# AMAZON CLONE
+ Excited to share my first Web Development Project! i finished building a Amazon clone using HTML and CSS. It's been a fun journey diving into the world of frontend developer . This project has given me hands on experience with ;ayout design, styling and working with flexbox system. I am excited to keep learning and building more projects in the future.#WebDevelopment #html #css#firstproject #learner  
